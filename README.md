@@ -1,6 +1,7 @@
-# ⚠️ PEMBERITAHUAN UNTUK REVIEWER ⚠️
+### Catatan untuk Reviewer
 
-Sesuai dengan *feedback* yang diberikan, isi dari folder **Kriteria 3 (Workflow CI)** ini telah dipindahkan sepenuhnya ke dalam repositori GitHub yang terpisah (agar *GitHub Actions* berjalan dengan sempurna pada *root path*).
+Halo Kak Reviewer,
+Berdasarkan feedback revisi sebelumnya, file untuk **Kriteria 3 (Workflow CI)** sudah saya pindahkan ke repository terpisah supaya GitHub Actions-nya bisa berjalan lancar tanpa error path.
 
-👉 **Silakan kunjungi repositori Kriteria 3 yang sebenarnya di sini:**
-[https://github.com/yusufsaputrah/Workflow-CI](https://github.com/yusufsaputrah/Workflow-CI)
+Ini link repository-nya ya kak:
+https://github.com/yusufsaputrah/Workflow-CI
