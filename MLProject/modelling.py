@@ -7,7 +7,7 @@ import mlflow.sklearn
 import argparse
 
 def train(n_estimators):
-    df = pd.read_csv('dataset_preprocessing.csv')
+    df = pd.read_csv('dataset_preprocessing/dataset_preprocessing.csv')
     X = df.drop('target', axis=1)
     y = df['target']
 
