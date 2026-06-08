@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Machine-Learning-Sistem/Machine-Learning-Sistem/Workflow-CI/MLProject/mlruns/0/53a588d3cd414a6b98e9934f6a765956/artifacts
+end_time: 1780855710664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53a588d3cd414a6b98e9934f6a765956
+run_name: MLProject_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780855705146
+status: 3
+tags: []
+user_id: runner
