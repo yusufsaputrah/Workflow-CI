@@ -22,7 +22,7 @@ def train(n_estimators):
 
         # Log metrics dan params secara eksplisit
         mlflow.log_param("n_estimators", n_estimators)
-        mlflow.log_metric("accuracy", acc)
+        mlflow.log_metric("accuracy", float(acc))
 
         # Log model secara eksplisit - PENTING agar artifact 'model' selalu ada
         mlflow.sklearn.log_model(clf, "model")
